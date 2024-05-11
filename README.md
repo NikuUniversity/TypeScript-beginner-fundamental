@@ -59,13 +59,22 @@ Day 20: Grappling with Legacy Code - Working with untyped JavaScript code within
 Day 21: Using Type Assertions - Safely casting types in specific scenarios with type assertions (use with caution!).
 
 Day 22: Third-Party Libraries - Integrating existing JavaScript libraries with TypeScript projects.
+
 Day 23: Namespaces and Modules - Organizing code using namespaces and modules for better maintainability.
+
 Day 24: Debugging Migrated Code - Identifying and fixing issues during JavaScript to TypeScript migration.
+
 Section 5: Putting it all Together (Days 25-30)
 
 Day 25: Building a Simple TypeScript Project - Hands-on practice by building a small web application with TypeScript.
+
 Day 26: Testing in TypeScript - Writing unit tests for TypeScript code to ensure functionality.
+
 Day 27: Advanced Features - Exploring advanced features like decorators and decorators.
+
 Day 28: Interfacing with Frameworks - Using TypeScript with popular JavaScript frameworks like React or Angular.
+
 Day 29: Best Practices and Tips - Learning coding conventions and best practices for writing clean and maintainable TypeScript code.
+
 Day 30: Course Wrap-up & Resources - Recap of key concepts, next steps for learning, and a list of additional resources for further exploration.
+
